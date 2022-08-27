@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/elijahamoako/Projects/temperatureConverter/temperatureConverter/temperatureConverter.csproj": {}
+    "/Users/elijahamoako/Desktop/Portfolio-C#/temperatureConverter/temperatureConverter/temperatureConverter.csproj": {}
   },
   "projects": {
-    "/Users/elijahamoako/Projects/temperatureConverter/temperatureConverter/temperatureConverter.csproj": {
+    "/Users/elijahamoako/Desktop/Portfolio-C#/temperatureConverter/temperatureConverter/temperatureConverter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/elijahamoako/Projects/temperatureConverter/temperatureConverter/temperatureConverter.csproj",
+        "projectUniqueName": "/Users/elijahamoako/Desktop/Portfolio-C#/temperatureConverter/temperatureConverter/temperatureConverter.csproj",
         "projectName": "temperatureConverter",
-        "projectPath": "/Users/elijahamoako/Projects/temperatureConverter/temperatureConverter/temperatureConverter.csproj",
+        "projectPath": "/Users/elijahamoako/Desktop/Portfolio-C#/temperatureConverter/temperatureConverter/temperatureConverter.csproj",
         "packagesPath": "/Users/elijahamoako/.nuget/packages/",
-        "outputPath": "/Users/elijahamoako/Projects/temperatureConverter/temperatureConverter/obj/",
+        "outputPath": "/Users/elijahamoako/Desktop/Portfolio-C#/temperatureConverter/temperatureConverter/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/elijahamoako/.nuget/NuGet/NuGet.Config"

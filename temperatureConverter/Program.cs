@@ -1,6 +1,6 @@
 ﻿Console.WriteLine("Welcome to my temperature converter app.");
 do
-{
+{//Types of conversions which can be made.
     Console.WriteLine("\nKindly choose an option below:\n");
     Console.WriteLine("1. Celsius to Fahrenheit");
     Console.WriteLine("2. Fahrenheit to Celsius");
@@ -10,7 +10,6 @@ do
     Console.WriteLine("6. Kelvin to Fahrenheir\n");
 
     string option = Console.ReadLine();
-
 
     switch (option)
     {
@@ -73,5 +72,3 @@ do
     Console.WriteLine("Do you want to make another conversion? Y / N");
 } while (Console.ReadLine().ToUpper() == "Y");
 Console.WriteLine("Bye!");
-
-
