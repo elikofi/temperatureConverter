@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QQ0P8w0hDHRlLEFftJJrQicnpe2WebpNODYBQFwabYkkSC0A9rJMcV2Dk36FbkJw86W797xLEMbgTEfY4sGgMA==",
+  "dgSpecHash": "9eXZ7D/qkZOhwWs+wfebqhyBBV+4UaQbOc3yTwzp4fTW1FaETLDQHo5gu61choBbWBWI2yN3pfxctMDiiMaVNw==",
   "success": true,
-  "projectFilePath": "/Users/elijahamoako/Desktop/Portfolio-C#/temperatureConverter/temperatureConverter/temperatureConverter.csproj",
+  "projectFilePath": "/Users/elijahamoako/Desktop/Portfolio/C#/temperatureConverter/temperatureConverter/temperatureConverter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

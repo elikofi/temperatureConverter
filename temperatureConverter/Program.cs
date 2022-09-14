@@ -19,7 +19,7 @@ do
             double celsiusTemp = Convert.ToDouble(Console.ReadLine());
 
             double fahrenheitTemp = (celsiusTemp / 5) * 9 + 32;
-            Console.WriteLine(fahrenheitTemp);
+            Console.WriteLine($"\n{celsiusTemp} degress celsius = {fahrenheitTemp} degress Fahrenheit.\n");
             break;
 
         case "2":
