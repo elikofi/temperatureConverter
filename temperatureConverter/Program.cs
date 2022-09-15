@@ -27,7 +27,7 @@ do
             fahrenheitTemp = Convert.ToDouble(Console.ReadLine());
 
             celsiusTemp = (fahrenheitTemp - 32) * 5 / 9;
-            Console.WriteLine(celsiusTemp);
+            Console.WriteLine($"\n{fahrenheitTemp} degress celsius = {celsiusTemp} degress Fahrenheit.\n");
             break;
 
         case "3":
@@ -35,7 +35,7 @@ do
             celsiusTemp = Convert.ToDouble(Console.ReadLine());
 
             double kelvinTemp = celsiusTemp + 273.15;
-            Console.WriteLine(kelvinTemp);
+            Console.WriteLine($"\n{celsiusTemp} degress celsius = {kelvinTemp} degress Fahrenheit.\n");
             break;
 
         case "4":
@@ -43,7 +43,7 @@ do
             kelvinTemp = Convert.ToDouble(Console.ReadLine());
 
             celsiusTemp = kelvinTemp - 273.15;
-            Console.WriteLine(celsiusTemp);
+            Console.WriteLine($"\n{kelvinTemp} degress celsius = {celsiusTemp} degress Fahrenheit.\n");
             break;
 
         case "5":
@@ -51,7 +51,7 @@ do
             fahrenheitTemp = Convert.ToDouble(Console.ReadLine());
 
             kelvinTemp = (fahrenheitTemp + 459.67) * 5 / 9;
-            Console.WriteLine(kelvinTemp);
+            Console.WriteLine($"\n{fahrenheitTemp} degress celsius = {kelvinTemp} degress Fahrenheit.\n");
             break;
 
         case "6":
@@ -59,7 +59,7 @@ do
             kelvinTemp = Convert.ToDouble(Console.ReadLine());
 
             fahrenheitTemp = (kelvinTemp * 9) / 5 - 459.67;
-            Console.WriteLine(fahrenheitTemp);
+            Console.WriteLine($"\n{kelvinTemp} degress celsius = {fahrenheitTemp} degress Fahrenheit.\n");
             break;
 
         default:
